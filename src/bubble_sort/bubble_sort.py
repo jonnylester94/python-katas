@@ -7,7 +7,6 @@ def bubble_sort(list):
 				list[j] = list[j+1]
 				list[j+1] = temp
 
-	print(list)
 	return list
 	
 

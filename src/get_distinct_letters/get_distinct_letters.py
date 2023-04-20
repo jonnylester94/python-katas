@@ -8,7 +8,6 @@ def get_distinct_letters(str1, str2):
 		for letter in combined_string:
 			if combined_string.count(letter) == 1:
 				new_string += letter	
-		print(new_string)
 		a = sorted(new_string)
 		return ''.join(a)
 
