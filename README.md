@@ -31,4 +31,5 @@ Each sub-directory in the src directory relates to a specific kata. Each sub-dir
 - extract_domain_name;
 - caesar_cipher;
 - roman_numeral_encoder;
-- alphabet_position
+- alphabet_position;
+- count_bits
